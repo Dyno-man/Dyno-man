@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Dyno-man
-- 👀 I’m interested in Computer Vision and Fullstack Development
-- 🌱 I’m currently learning the Next.js Framework
-- 📫 How to reach me @grantversluis on X.com
+![cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZlNDNtdWt1cW5zOXlncXE5ZHZudHhjaWM0dGl5dXNscnUyYWthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWku98eNsMSZOEEWnC/giphy.gif)
